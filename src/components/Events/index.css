@@ -1,0 +1,10 @@
+.bg-color {
+  background-color: #323f4b;
+  color: #f8fafc;
+  padding: 10px;
+  width: 70vw;
+}
+
+text {
+  display: flex;
+}

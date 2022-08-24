@@ -1,0 +1,36 @@
+/* Write your CSS here */
+img {
+  height: 200px;
+  border: 1px solid transparent;
+  border-radius: 12px;
+}
+
+button {
+  background-color: #323f4b;
+  border-color: transparent;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  width: 800px;
+}
+
+.p {
+  color: #f8fafc;
+  font-size: 10px;
+}
+
+p {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.arr {
+  margin-left: 20px;
+}
+
+.imageColor {
+  border: 2px solid #2dd4bf;
+}
